@@ -1,0 +1,10 @@
+/workspaces/Vehicle-Service-Management1/VSMApi/obj/Debug/net8.0/VSMApi.csproj.AssemblyReference.cache
+/workspaces/Vehicle-Service-Management1/VSMApi/obj/Debug/net8.0/VSMApi.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Vehicle-Service-Management1/VSMApi/obj/Debug/net8.0/VSMApi.AssemblyInfoInputs.cache
+/workspaces/Vehicle-Service-Management1/VSMApi/obj/Debug/net8.0/VSMApi.AssemblyInfo.cs
+/workspaces/Vehicle-Service-Management1/VSMApi/obj/Debug/net8.0/VSMApi.csproj.CoreCompileInputs.cache
+/workspaces/Vehicle-Service-Management1/VSMApi/obj/Debug/net8.0/VSMApi.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/Vehicle-Service-Management1/VSMApi/obj/Debug/net8.0/VSMApi.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Vehicle-Service-Management1/VSMApi/obj/Debug/net8.0/VSMApi.sourcelink.json
+/workspaces/Vehicle-Service-Management1/VSMApi/obj/Debug/net8.0/VSMApi.RazorAssemblyInfo.cache
+/workspaces/Vehicle-Service-Management1/VSMApi/obj/Debug/net8.0/VSMApi.RazorAssemblyInfo.cs
